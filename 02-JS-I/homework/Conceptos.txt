@@ -1,0 +1,11 @@
+Definiciòn de conceptos 
+
+* Variables : Es un espacio en el sistema donde se guarda informaciòn para ser utilizada porsteriormente.
+
+	* Strings : Son una cadena de texto encerrados en comillas simples o dobles
+
+	* Funciones (argumentos, `return`): Permiten simplificar el codigo, ya que en vez de escribir el mismo codigo varias veces, se puede llamar a una funcion que realice el codigo deseado.
+	
+    * Declaraciones `if`: Permiten realizar alguna accion en caso de que se cumpla una condicion
+	
+    * Valores booleanos (`true`, `false`) : Es un tipo de dato logico que tiene dos valores posibles tru o false
